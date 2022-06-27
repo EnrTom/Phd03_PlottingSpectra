@@ -1,0 +1,11 @@
+T1  Valore(T1,duct1)     T1  Valore(T1,duct2)     T1  Valore(T1,duct3)     ...  ...     T1  Valore(T1,ductm)
+T2  Valore(T2,duct1)     T2  Valore(T2,duct2)     T3  Valore(T2,duct3)     ...  ...     T2  Valore(T2,ductm)
+T3  Valore(T3,duct1)     T3  Valore(T3,duct2)     T4  Valore(T3,duct3)     ...  ...     T3  Valore(T3,ductm)
+..  ................     ..  ................     ..  ................     ...  ...     ..  ................
+..  ................     ..  ................     ..  ................     ...  ...     ..  ................
+TP  Valore(TP,duct1)     TP  Valore(TP,duct2)     TP  Valore(TP,duct3)     ...  ...     TP  Valore(TP,ductm)
+
+
+%Queste righe servono solo per una migliore lettura del file
+%Si hanno da 1 a P valori del periodo T (T1, T2, ..., TP)
+%SI hanno da 1 a m valori della duttilità ductm (duct1, duct2, ..., ductm)

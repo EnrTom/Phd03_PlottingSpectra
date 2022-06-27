@@ -1,0 +1,5 @@
+T1     Sd(T1,duct1)   Sd(T1,duct2)   ...........   Sd(T1,ductm)
+T2     Sd(T2,duct1)   Sd(T2,duct2)   ...........   Sd(T2,ductm)
+T3     Sd(T3,duct1)   Sd(T3,duct2)   ...........   Sd(T3,ductm)
+..     ............   ............   ...........   ............
+TP     Sd(TP,duct1)   Sd(TP,duct2)   ...........   Sd(TP,ductm)

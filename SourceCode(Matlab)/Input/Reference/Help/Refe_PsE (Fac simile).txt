@@ -1,0 +1,5 @@
+T1     PsE(T1,duct1)   PsE(T1,duct2)   ...........   PsE(T1,ductm)
+T2     PsE(T2,duct1)   PsE(T2,duct2)   ...........   PsE(T2,ductm)
+T3     PsE(T3,duct1)   PsE(T3,duct2)   ...........   PsE(T3,ductm)
+..     .............   .............   ...........   .............
+TP     PsE(TP,duct1)   PsE(TP,duct2)   ...........   PsE(TP,ductm)

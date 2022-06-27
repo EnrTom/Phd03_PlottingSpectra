@@ -1,0 +1,5 @@
+T1     Sa(T1,duct1)   Sa(T1,duct2)   ...........   Sa(T1,ductm)
+T2     Sa(T2,duct1)   Sa(T2,duct2)   ...........   Sa(T2,ductm)
+T3     Sa(T3,duct1)   Sa(T3,duct2)   ...........   Sa(T3,ductm)
+..     ............   ............   ...........   ............
+TP     Sa(TP,duct1)   Sa(TP,duct2)   ...........   Sa(TP,ductm)

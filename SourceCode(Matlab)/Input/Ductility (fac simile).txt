@@ -1,0 +1,9 @@
+1st Ductility value
+2nd Ductility value
+3rd Ductility value
+4th Ductility value
+...
+mth Ductility value
+
+%Disporre in righe in modo crescente i valori della duttilità
+%che il programma dovrà leggere.
